@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-22T22:35:11 COT" name="Default suite" finished-at="2021-09-22T22:35:35 COT" duration-ms="23627">
+    <groups>
+    </groups>
+    <test started-at="2021-09-22T22:35:11 COT" name="Default test" finished-at="2021-09-22T22:35:35 COT" duration-ms="23627">
+      <class name="com.tmorangeAutomation.tmselenium.test.UserTest">
+        <test-method signature="deleteUser()[pri:0, instance:com.tmorangeAutomation.tmselenium.test.UserTest@6babf3bf]" started-at="2021-09-22T22:35:11 COT" name="deleteUser" finished-at="2021-09-22T22:35:19 COT" duration-ms="7813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.tmorangeAutomation.tmselenium.test.UserTest@6babf3bf]" started-at="2021-09-22T22:35:19 COT" name="endTest" finished-at="2021-09-22T22:35:20 COT" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method signature="findUser()[pri:0, instance:com.tmorangeAutomation.tmselenium.test.UserTest@6babf3bf]" started-at="2021-09-22T22:35:20 COT" name="findUser" finished-at="2021-09-22T22:35:27 COT" duration-ms="7417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findUser -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.tmorangeAutomation.tmselenium.test.UserTest@6babf3bf]" started-at="2021-09-22T22:35:27 COT" name="endTest" finished-at="2021-09-22T22:35:27 COT" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method signature="updateUser()[pri:0, instance:com.tmorangeAutomation.tmselenium.test.UserTest@6babf3bf]" started-at="2021-09-22T22:35:27 COT" name="updateUser" finished-at="2021-09-22T22:35:34 COT" duration-ms="7059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUser -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.tmorangeAutomation.tmselenium.test.UserTest@6babf3bf]" started-at="2021-09-22T22:35:34 COT" name="endTest" finished-at="2021-09-22T22:35:35 COT" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.tmorangeAutomation.tmselenium.test.UserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
