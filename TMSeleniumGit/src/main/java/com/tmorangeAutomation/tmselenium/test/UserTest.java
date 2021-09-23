@@ -51,7 +51,7 @@ public class UserTest extends BaseAutomation {
 
 //		Se instancian los empleados
 		BaseEmployee employee1 = GB.of(new BaseEmployee()).push(e -> e.setFirstName("Abner"))
-				.push(e -> e.setMiddleName("")).push(e -> e.setLastName("Cruz")).push(e -> e.setId(80723325)).build();
+				.push(e -> e.setMiddleName("")).push(e -> e.setLastName("Cruz")).push(e -> e.setId(666555999)).build();
 
 		BaseEmployee employee2 = GB.of(new BaseEmployee()).push(e -> e.setFirstName("Yanira"))
 				.push(e -> e.setMiddleName("")).push(e -> e.setLastName("Tada")).push(e -> e.setId(99988877)).build();
